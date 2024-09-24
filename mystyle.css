@@ -1,0 +1,15 @@
+header {
+    background: #c0c4cc;
+    /* สีพื้นหลังที่สดใส */
+    color: #000000;
+    text-align: center;
+    padding: 2em 0;
+    ;
+}
+
+body {
+    background-color: #dbdada;
+    color: #000;
+    font-style: oblique;
+    font-size: larger;
+}
